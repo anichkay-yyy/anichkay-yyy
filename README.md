@@ -1,3 +1,3 @@
 # anichkay
-## I'm Full Stack Web Developer. 
-## Now learning FAMCS BSU.
+### I'm Full Stack Web Developer. 
+### Now learning FAMCS BSU.
