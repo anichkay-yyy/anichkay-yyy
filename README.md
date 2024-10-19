@@ -1,6 +1,7 @@
-# anichkay
-##### I'm Full Stack Web Developer. Now learning FAMCS BSU.
-##### Stack: Node.js, Express, Fastify, Nest.js, Vue3, Vuex, JavaScript, TypeScript, Python, Fastapi, Open Ai, Bash, Linux, Docker.
+# Hi, I'm anichkay (Alexandr) 
+##### I'm Full Stack Web Developer. Now learning FAMCS BSU. 
+##### Stack: Node.js, Express, Fastify, Nest.js, Vue3, Vuex, JavaScript, TypeScript, Python, Fastapi, Open Ai, Bash, Linux, Docker... 
+¯\_(ツ)_/¯
 
 I freelanced from 2019 to 2021 (Node.js backend developer).
 
