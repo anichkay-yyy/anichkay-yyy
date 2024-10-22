@@ -11,4 +11,4 @@ Was in the AI summer camp (HappyAI) in 2024 (Work with Python and Open AI).
 
 From September 2024 to now work in WiseWeb (Frontend developer Native javascript and Vue3).
 
-Contact me Telegram alex46908.
+Contact me Telegram @alex46908.
