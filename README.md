@@ -1,14 +1,13 @@
-# Hi, I'm anichkay (Alexandr) 
+# Hi, I'm anichkay (Alexander) 
 ##### I'm a Full Stack Web Developer. Currently I am learning at FAMCS BSU. 
-##### Stack: Node.js, Express, Fastify, Nest.js, Vue3, Vite, Vuex, JavaScript, TypeScript, Python, Fastapi, Open Ai, Bash, Linux, Docker... 
+##### Stack: Node.js, Express, Fastify, Nest.js, Vue3, Vite, Vuex, JavaScript, TypeScript, Python, FastAPI, OpenAI, Bash, Linux, Docker... 
 
+I worked as a freelancer Node.js backend developer from 2019 to 2021.
 
-I freelanced from 2019 to 2021 (Node.js backend developer).
+I attended an AI summer camp (HappyAI) in 2024, where I gained experience working with Python and OpenAI.
 
-I attened an AI summer camp (HappyAI) in 2024 (Work with Python and Open AI).
+Currently, I am a Vue3 (Option Api) frontend developer at the startup Lectoria, where I've been working since 2021.
 
-As of typing this, I am working in a startup Lectoria from 2021 (Vue3 frontend developer).
-
-From September 2024 to till now I work in WiseWeb (Frontend developer Native javascript and Vue3).
+Since September 2024, I have also been working as a frontend developer at WiseWeb, specializing in native JavaScript and Vue 3 (Composition Api).
 
 Contact me via Telegram [@alex46908](https://t.me/alex46908)
