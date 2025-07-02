@@ -11,4 +11,5 @@ Currently, I am a Vue3 (Option Api) frontend developer at the startup Lectoria, 
 Since September 2024, I have also been working as a frontend developer at WiseWeb, specializing in native JavaScript and Vue 3 (Composition Api).
 
 Contact me via Telegram [@alex46908](https://t.me/alex46908)
+
 [Resume](https://github.com/anichkay-yyy/anichkay-yyy/blob/main/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%20%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80.pdf)
