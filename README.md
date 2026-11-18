@@ -1,4 +1,4 @@
-# Hi, I'm anichkay (Alexander) 
+# Hi 
 ##### I'm a Full Stack Web Developer. Currently I am learning at FAMCS BSU. 
 ##### Stack: Node.js, Express, Fastify, Nest.js, Vue3, Vite, Vuex, JavaScript, TypeScript, Python, FastAPI, OpenAI, Bash, Linux, Docker... 
 
